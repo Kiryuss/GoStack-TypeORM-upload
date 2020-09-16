@@ -7,7 +7,7 @@ Every transaction has an id(uuidv4), title, type, value, and a category. All the
 categories with the same title will have the same id.
 And the main feature here, is the possibility to import transactions from csv files.
 
-############################################## Tech informations ################################################
+Tech informations
 
 if you want to get a better look, you will need to follow this steps:
 1 - make a postgres db in docker on port 5432.
